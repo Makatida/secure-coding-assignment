@@ -1,3 +1,4 @@
+//MAKATIDA NGWERUME H230006G
 //1.Create a class Bank with fields accountType and accountBalanc
 public class Bank {
         // Fields
